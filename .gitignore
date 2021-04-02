@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+env
+venv
+.env*
+Jenkinsfile-prod
+Dockerfile
+docker-boot.sh
+deploy-to-ecs.sh
+uwsgi*
